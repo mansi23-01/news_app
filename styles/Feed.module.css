@@ -1,0 +1,33 @@
+.main{
+  display: flex;
+  margin-top: 50px;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(190, 199, 214); 
+
+}
+.post {
+  width: 500px;
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid black;
+ 
+}
+  .post img {
+    width: 100%;
+  }
+  .post a{
+    color: rgb(69, 69, 208);
+    font-size: 1.75rem;
+   
+  }
+  .post a:hover{
+    color: rgb(24, 24, 165);
+    text-decoration: underline;
+    
+  }
+  .post p{
+    font-size: 1.25rem;
+  }
+  
+  
